@@ -1,0 +1,17 @@
+{
+  "name": "wechat-work-message-push",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "config": "^2.0.1",
+    "crypto": "^1.0.1",
+    "koa": "^2.5.3",
+    "koa-body": "^4.0.4",
+    "koa-router": "^7.4.0",
+    "request": "^2.88.0"
+  }
+}
