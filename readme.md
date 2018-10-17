@@ -23,7 +23,7 @@ module.exports = {
 
     wechatWork: {
         receiverUserId: 'qy4bj3kb2kj4b2k3b4k34vhg', // 接收者在企业微信中的userid
-        corpid: 'ww76510f3cs213gv03b',
+        corpid: 'ww76510f3cs213gv03b', // 企业id
         corpsecret: 'SravraDG_sadfvrfrESFveefr-FsaBgsc_QWEFVR23-F4e', // 应用secret
         agentid: '1000001',  // 应用id
     }
